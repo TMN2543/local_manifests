@@ -26,7 +26,7 @@
  <project path="device/xiaomi/stone-kernel" name="device_xiaomi_stone-kernel" remote="kami" revision="14" />
 
  <!-- Kernel Headers -->
- <project path="kernel/xiaomi/sm6375" name="android_kernel_qcom_sm8350" remote="cr" revision="14.0" />
+ <project path="kernel/xiaomi/sm6375" name="android_kernel_xiaomi_sm8350" remote="cr" revision="14.0" />
  
  <!-- Vendor -->
  <project path="vendor/xiaomi/stone" name="vendor_xiaomi_stone" remote="kami" revision="14" />
