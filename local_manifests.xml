@@ -29,7 +29,7 @@
  <project path="vendor/xiaomi/stone" name="vendor_xiaomi_stone" remote="kami" revision="15" />
  
  <!-- Common Xiaomi Hardware Tree -->
- <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="linag" revision="lineage-22.1" />
+ <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="cr" revision="15.0" />
 
  <!-- Dolby -->
  <project path="vendor/dolby" name="vendor_dolby_oplus" remote="cumos" revision="14" />
